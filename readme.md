@@ -2,11 +2,11 @@ EXERCISE
 
 1. Write a code to display the multiplication table of a given integer.
  ○ Example : Number → 9
- ○ Output : 
+○ Output : 
 ■ 9 x 1
- ■ 9 x 2
- ■ …
- ■ 9 x 10
+■ 9 x 2
+■ …
+■ 9 x 10
 
 2. Write a code to check whether a string is a palindrome or not.
  ○ Example : ‘madam’ → palindrome
@@ -24,6 +24,7 @@ EXERCISE
  ○ Example : “hello world” → “Hello World”
 
 Exercise
+
 7. Write a code to swap the case of each character from string 
 ○ Example : ‘The QuiCk BrOwN Fox’ -> ‘ tHE qUIcK bRoWn fOX’
 
